@@ -38,7 +38,7 @@ GEM
       rest-client (>= 1.8.0)
     domain_name (0.5.20180417)
       unf (>= 0.0.5, < 1.0.0)
-    excon (0.62.0)
+    excon (0.78.0)
     faraday (0.15.3)
       multipart-post (>= 1.2, < 3)
     gitlab (4.6.1)
